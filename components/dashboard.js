@@ -7,7 +7,7 @@ const Dashboard = () => {
                 <Image src="/cryptocurrency.jpg" width={500} height={300} objectFit="contain" alt="Crptocurrency signal" className='w-[500px] mx-auto my-4'/>
                 <div className="flex flex-col justify-center">
                     <p className="text-[#574b90] font-bold">TRADE DASHBOARD</p>
-                    <h1 class="md:text-4xl sm:text-3xl text-2xl font-bold py-2">Manage Crypto Assets Centrally</h1>
+                    <h1 className="md:text-4xl sm:text-3xl text-2xl font-bold py-2">Manage Crypto Assets Centrally</h1>
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse quidem praesentium 
                         voluptas aspernatur commodi sequi quibusdam odio, beatae facere ipsum, quae 
